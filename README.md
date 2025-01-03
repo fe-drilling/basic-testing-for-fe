@@ -43,11 +43,13 @@
 
 
 ## 제출표
+[Discussion 바로가기](https://github.com/fe-drilling/basic-testing-for-fe/discussions)
 
 | 이름   | github id      | 1주차 | 2주차 | 3주차 | 4주차 | 5주차 | 6주차 | 7주차 | 8주차 | 9주차 | 10주차 |
 |--------|----------------|-------|-------|-------|-------|-------|-------|-------|-------|-------|--------|
 | 강민석 | [@ainochi-kor](https://github.com/ainochi-kor)   |       |       |       |       |       |       |       |       |       |        |
 | 안시현 | [@siihyun](https://github.com/siihyun)   |       |       |       |       |       |       |       |       |       |        |
 | 최승진 | [@yondo123](https://github.com/yondo123)   |       |       |       |       |       |       |       |       |       |        |
+| 나재완 | [@ABlued](https://github.com/ABlued)   |       |       |       |       |       |       |       |       |       |        |
 
 
