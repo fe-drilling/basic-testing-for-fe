@@ -51,5 +51,6 @@
 | 안시현 | [@siihyun](https://github.com/siihyun)   |       |       |       |       |       |       |       |       |       |        |
 | 최승진 | [@yondo123](https://github.com/yondo123)   |       |       |       |       |       |       |       |       |       |        |
 | 나재완 | [@ABlued](https://github.com/ABlued)   |       |       |       |       |       |       |       |       |       |        |
+| 연은빈 | [@okdol1](https://github.com/okdol1)   |       |       |       |       |       |       |       |       |       |        |
 
 
