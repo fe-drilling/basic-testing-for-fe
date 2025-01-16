@@ -52,5 +52,6 @@
 | 최승진 | [@yondo123](https://github.com/yondo123)   | O     |       |       |       |       |       |       |       |       |        |
 | 나재완 | [@ABlued](https://github.com/ABlued)   | O     |       |       |       |       |       |       |       |       |        |
 | 연은빈 | [@okdol1](https://github.com/okdol1)   | O     |       |       |       |       |       |       |       |       |        |
+| 홍승연(N) | [@dev-redo](https://github.com/dev-redo)   |     |       |       |       |       |       |       |       |       |        |
 
 
