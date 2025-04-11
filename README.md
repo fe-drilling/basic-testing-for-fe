@@ -47,10 +47,10 @@
 
 | 이름   | github id      | 1주차 | 2주차 | 3주차 | 4주차 | 5주차 | 6주차 | 7주차 | 8주차 | 9주차 | 10주차 |
 |--------|----------------|-------|-------|-------|-------|-------|-------|-------|-------|-------|--------|
-| 강민석 | [@ainochi-kor](https://github.com/ainochi-kor)   | O     | O     | O     | O     | O     |       |       |       |       |        |
-| 안시현 | [@siihyun](https://github.com/siihyun)   | O     | O     | O     | O     | X     |       |       |       |       |        |
-| 최승진 | [@yondo123](https://github.com/yondo123)   | O     | O    | O     | O     | O     |       |       |       |       |        |
-| 나재완 | [@ABlued](https://github.com/ABlued)   | O     | O     | O     | O     | O     |       |       |       |       |        |
-| 연은빈 | [@okdol1](https://github.com/okdol1)   | O     | O     | O     | O     | O     |       |       |       |       |        |
+| 강민석 | [@ainochi-kor](https://github.com/ainochi-kor)   | O     | O     | O     | O     | O     | O     | O     | O     | O     | O      |
+| 안시현 | [@siihyun](https://github.com/siihyun)   | O     | O     | O     | O     |       |       |       |       |       |        |
+| 최승진 | [@yondo123](https://github.com/yondo123)   | O     | O    | O     | O     | O     | O     |       | O     |       |        |
+| 나재완 | [@ABlued](https://github.com/ABlued)   | O     | O     | O     | O     | O     | O     | O     | O     | O     | O      |
+| 연은빈 | [@okdol1](https://github.com/okdol1)   | O     | O     | O     | O     | O     | O     | O     | O     | O     | O      |
 
 
